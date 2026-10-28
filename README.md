@@ -1,8 +1,12 @@
 # PV_Battery_Project
-A Project that
 
-Cleans the data using Pandas in Python and performs calculations
+Notebooks folder:
+--> Python scripts
+--> Raw data
+--> Processed data
 
-Analyses data using SQL (Get, filter and aggregate data)
+Power BI
+--> BI file
+--> Screenshots of dashboard
+--> SQL and DAX code
 
-Displays data in dashboards using PowerBI, where DAX and other tools are used (Gitintegration with PowerBI)
